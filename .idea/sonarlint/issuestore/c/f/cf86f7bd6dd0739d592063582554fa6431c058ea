@@ -1,0 +1,13 @@
+
+m
+java:S1874"1Remove this use of "AsyncTask"; it is deprecated.(²®·¶J$f77803bc-9f58-4d6c-91b8-f14a7ac4566d
+k
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿJ$11846a0b-3e40-41e3-8702-7b7c077c8c08
+†
+java:S18740"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(õ„µàJ$39d5a3ec-9b48-48d6-adff-d4bcae97262a
+n
+java:S1128"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿJ$911098a9-dc9c-470d-9ea1-2b3f88b59b49
+o
+java:S1128"3Remove this unused import 'java.io.BufferedReader'.(€é²ÅJ$0cf13f31-88a7-46ae-a081-591e9a6ad82f
+r
+java:S1128"6Remove this unused import 'java.io.InputStreamReader'.(ãˆÎÉJ$313f5b59-1809-415f-a581-edc7e92a9e00

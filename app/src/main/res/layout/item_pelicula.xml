@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/movie_image"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignParentEnd="true"
+        android:scaleType="centerCrop" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toStartOf="@id/movie_image"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/movie_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:text="Título"
+            android:textColor="#FFFFFF" />
+
+        <TextView
+            android:id="@+id/movie_actor"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:text="Actor"
+            android:textColor="#FFFFFF" />
+
+        <TextView
+            android:id="@+id/movie_date"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:text="Fecha"
+            android:textColor="#FFFFFF" />
+
+        <TextView
+            android:id="@+id/movie_city"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:text="Ciudad"
+            android:textColor="#FFFFFF" />
+
+        <TextView
+            android:id="@+id/movie_director"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:text="Director"
+            android:textColor="#FFFFFF" />
+
+        <Button
+            android:id="@+id/delete_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Eliminar"
+            android:textColor="#FFFFFF"
+            android:background="#FF8B0000"
+            android:layout_marginTop="8dp"
+            android:layout_gravity="end" />
+
+
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,18 @@
+
+“
+java:S1104"RMake titulo a static final constant or non-public and provide accessors if needed.(˜±šÿÿÿÿÿJ$5e3d1adb-a953-4a4b-9ba4-3e93e66720c6
+’
+java:S1104	"QMake actor a static final constant or non-public and provide accessors if needed.(Ñçè²úÿÿÿÿJ$56e67352-54df-4013-b355-cc31d2594ced
+’
+java:S1104
+"QMake fecha a static final constant or non-public and provide accessors if needed.(Â‡±ùÿÿÿÿJ$3ccf84ce-c914-4a32-8f97-cdd94f316220
+
+java:S1104"RMake ciudad a static final constant or non-public and provide accessors if needed.(â…óæJ$dc19a68b-7bbd-4e59-84ed-7e47cda8b51c
+•
+java:S1104"TMake director a static final constant or non-public and provide accessors if needed.(ğÃ¸ƒüÿÿÿÿJ$2cb810aa-5fbb-4540-be7e-b75a8925967b
+
+java:S1104"RMake imagen a static final constant or non-public and provide accessors if needed.(À¹…«J$788e0a3d-3773-4869-89aa-fff50ca58a5c
+Â
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¨¿ªÚøÿÿÿÿJ$a033a91c-7666-4e21-bdf6-8d9251ef58cc
+p
+java:S1128"/Remove this unused import 'org.json.JSONArray'.(¬¸Ê’üÿÿÿÿJ$d2c93351-c4ca-44dc-bf53-bb045028abdd

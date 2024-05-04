@@ -1,0 +1,16 @@
+
+›
+java:S1450"_Remove the "agregarPeliculas" field and declare it as a local variable in the relevant methods.(°˜ªªJ$4fcfab2d-a793-4f37-a82f-0dca80330faf
+Ÿ
+java:S1450"^Remove the "languageSpinner" field and declare it as a local variable in the relevant methods.(ëŠ¦éüÿÿÿÿJ$10b62538-125e-42a4-8b7b-03a3e2077d83
+—
+java:S1450"\Remove the "logoImageView" field and declare it as a local variable in the relevant methods.(•…ðxJ$52bbb141-66d3-4b6d-b766-684d0f587b22
+œ
+java:S1450"[Remove the "verPeliculas" field and declare it as a local variable in the relevant methods.(²¼ó¡üÿÿÿÿJ$c4a4736e-a1cb-45ec-86fa-618b3db266fd
+€
+java:S1854."DRemove this useless assignment to local variable "selectedLanguage".(’Óó©J$b57ddbd5-accb-45e9-9a8f-71ca6559426e
+q
+java:S1481."5Remove this unused "selectedLanguage" local variable.(’Óó©J$bfa670cc-3abb-4ecb-bf63-c96b15da1d35
+Â
+java:S1186L"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹Æº×þÿÿÿÿJ$c615a198-bffe-493c-ab2d-f42e845d1e91
+b	java:S1316""Add a default case to this switch.(òÍãÁþÿÿÿÿJ$01dc00ed-b2e2-433d-ba5d-58044f0863d0
